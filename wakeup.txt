@@ -1,1 +1,2 @@
 This a wake up file
+This is not only a wakeup file but also a file that checks alarms
